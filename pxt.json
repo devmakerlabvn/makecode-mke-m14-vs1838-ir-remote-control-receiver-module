@@ -1,5 +1,5 @@
 {
-    "name": "[MakeCode] MKE-S02 LDR Light Sensor",
+    "name": "[MakeCode] MKE-M14 VS1838 IR Remote Control Receiver Module",
     "description": "",
     "dependencies": {
         "core": "*",
